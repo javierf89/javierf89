@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
-<img src="https://github.com/javierf89/javierf89/blob/54ae1b2cf77332f4f5181065c830f19b96634532/image.png" alt="Banner de Ciberseguridad" width="600" align="center">
+<h1 align="center" style="background-image: url('https://github.com/javierf89/javierf89/blob/54ae1b2cf77332f4f5181065c830f19b96634532/image.png'); background-size: cover; color: white; padding: 20px;">Hi there 👋</h1>
+
 
 I'm **Jostin Cruz**, passionate about programming with experience in **Python** and constantly learning about **cybersecurity** and **ethical hacking**. My interests include:
 
