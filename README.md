@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi there 👋
+I'm Jostin Cruz, passionate about programming with experience in Python and constantly learning about cybersecurity and ethical hacking. My interests include:
 
-<!--
-**javierf89/javierf89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Developing Python for automation and scripting projects.
+🔒 Exploring the world of ethical hacking and best practices in cybersecurity.
+🛠️ Learning to use security tools and techniques to strengthen infrastructures and protect systems.
+Currently working on:
+📜 Security projects using Python.
+🔍 Researching vulnerabilities and system protection in the context of ethical hacking.
+About me:
+📫 How to reach me: cruzjostin987@gmail.com
+🌍 Based in: Comayagua, Honduras
